@@ -1,0 +1,15 @@
+C:\Users\Tyler\Desktop\Side Projects\How to Square from a string\bin\Debug\net6.0\How to Square from a string.exe
+C:\Users\Tyler\Desktop\Side Projects\How to Square from a string\bin\Debug\net6.0\How to Square from a string.deps.json
+C:\Users\Tyler\Desktop\Side Projects\How to Square from a string\bin\Debug\net6.0\How to Square from a string.runtimeconfig.json
+C:\Users\Tyler\Desktop\Side Projects\How to Square from a string\bin\Debug\net6.0\How to Square from a string.dll
+C:\Users\Tyler\Desktop\Side Projects\How to Square from a string\bin\Debug\net6.0\How to Square from a string.pdb
+C:\Users\Tyler\Desktop\Side Projects\How to Square from a string\obj\Debug\net6.0\How to Square from a string.csproj.AssemblyReference.cache
+C:\Users\Tyler\Desktop\Side Projects\How to Square from a string\obj\Debug\net6.0\How to Square from a string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tyler\Desktop\Side Projects\How to Square from a string\obj\Debug\net6.0\How to Square from a string.AssemblyInfoInputs.cache
+C:\Users\Tyler\Desktop\Side Projects\How to Square from a string\obj\Debug\net6.0\How to Square from a string.AssemblyInfo.cs
+C:\Users\Tyler\Desktop\Side Projects\How to Square from a string\obj\Debug\net6.0\How to Square from a string.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\Desktop\Side Projects\How to Square from a string\obj\Debug\net6.0\How to Square from a string.dll
+C:\Users\Tyler\Desktop\Side Projects\How to Square from a string\obj\Debug\net6.0\refint\How to Square from a string.dll
+C:\Users\Tyler\Desktop\Side Projects\How to Square from a string\obj\Debug\net6.0\How to Square from a string.pdb
+C:\Users\Tyler\Desktop\Side Projects\How to Square from a string\obj\Debug\net6.0\How to Square from a string.genruntimeconfig.cache
+C:\Users\Tyler\Desktop\Side Projects\How to Square from a string\obj\Debug\net6.0\ref\How to Square from a string.dll
